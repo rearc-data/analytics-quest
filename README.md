@@ -1,4 +1,4 @@
-# Rearc Data Quest
+# Rearc Data Analytics Quest
 
 ### Q. What is this quest?
 At Rearc, we're passionate about telling stories with our data: exploring it to better understand the world around us and leveraging it to create innovative solutions to real-world problems. 
