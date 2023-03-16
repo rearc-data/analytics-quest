@@ -37,7 +37,7 @@ San Francisco is one of the most popular tourist destinations in the United Stat
 You may do some of these, you may do all of these; you may even branch off in additional directions that demonstrate your analytical reasoning and creativity.
 
 ### Q. What do I have to submit?
-You are free to use any data analytics tool, such as Python, R, Excel, Tableau, or Power BI. Submit your analysis and outcome in a Jupyter notebook, RMarkdown, or other formats that you are comfortable with.
+You are free to use any data analytics tool, such as Python, R, Excel, Tableau, or Power BI. Submit your analysis and outcome in a Jupyter notebook, RMarkdown, or other formats that you are comfortable with. Make sure we are able to view your results without requiring any proprietary software, complicated setup, or re-running your code.
 
 ### Q. What if I successfully complete all the steps?
 We have many more for you to solve as a member of the Rearc team!
@@ -45,5 +45,5 @@ We have many more for you to solve as a member of the Rearc team!
 ### Q. What if I fail?
 Do. Or do not. There is no fail.
 
-### Q. Can i share this quest with others?
+### Q. Can I share this quest with others?
 No.
