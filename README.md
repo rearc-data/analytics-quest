@@ -26,7 +26,7 @@ This is intended to give you a platform to put your analytical expertise on disp
 
 ##### Task
 
-San Francisco is one of the most popular tourist destinations in the United States, attracting millions of visitors every year. Airbnb has become a popular choice for travelers seeking affordable and unique accommodations in the city. In this project, we will ask you to utilize the below tables, explore Airbnb rentals in San Francisco, and attempt to answer the following questions:
+San Francisco is one of the most popular tourist destinations in the United States, attracting millions of visitors every year. Airbnb has become a popular choice for travelers seeking affordable and unique accommodations in the city. In this project, we ask you to utilize the above tables, explore Airbnb rentals in San Francisco, and attempt to answer the following questions:
 
 1) What factors are most strongly associated with the price of an Airbnb rental in San Francisco?
 2) What neighborhoods in San Francisco have the highest demand for Airbnb rentals?
@@ -37,7 +37,7 @@ San Francisco is one of the most popular tourist destinations in the United Stat
 You may do some of these, you may do all of these; you may even branch off in additional directions that demonstrate your analytical reasoning and creativity.
 
 ### Q. What do I have to submit?
-You are free to use any data analytics tool, such as Python, R, Excel, Tableau, or Power BI. Submit your analysis and outcome in a Jupyter notebook, RMarkdown, or other formats that you are comfortable with.
+You are free to use any data analytics tool such as Python, R, Excel, Tableau, or Power BI. Submit your analysis and outcome in a Jupyter notebook, RMarkdown, or other formats that you are comfortable with.
 
 ### Q. What if I successfully complete all the steps?
 We have many more for you to solve as a member of the Rearc team!
@@ -45,5 +45,5 @@ We have many more for you to solve as a member of the Rearc team!
 ### Q. What if I fail?
 Do. Or do not. There is no fail.
 
-### Q. Can i share this quest with others?
-No.
+### Q. Can I share this quest with others?
+No. If you host your answers in version control such as Github, we ask that you please keep the repository private.
