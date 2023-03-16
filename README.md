@@ -26,7 +26,7 @@ This is intended to give you a platform to put your analytical expertise on disp
 
 ##### Task
 
-San Francisco is one of the most popular tourist destinations in the United States, attracting millions of visitors every year. Airbnb has become a popular choice for travelers seeking affordable and unique accommodations in the city. In this project, we ask you to utilize the above tables, explore Airbnb rentals in San Francisco, and attempt to answer the following questions:
+San Francisco is one of the most popular tourist destinations in the United States, attracting millions of visitors every year. Airbnb has become a popular choice for travelers seeking affordable and unique accommodations in the city. In this project we ask you to utilize the above tables to explore Airbnb rentals in San Francisco and attempt to answer the following questions:
 
 1) What factors are most strongly associated with the price of an Airbnb rental in San Francisco?
 2) What neighborhoods in San Francisco have the highest demand for Airbnb rentals?
