@@ -14,6 +14,9 @@ This is intended to give you a platform to put your analytical expertise on disp
 
 ##### Tables / Descriptions
 
+- *To download these files, copy/paste the link address into the address bar.*
+- *Alternatively, pd.read_csv(url) should work just fine.*
+
 | File   | Description |
 |-------------------|-------------|
 | [listings.csv.gz](http://data.insideairbnb.com/united-states/ca/san-francisco/2022-12-04/data/listings.csv.gz) | Detailed Listings Data |
