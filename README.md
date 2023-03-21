@@ -16,7 +16,7 @@ This is intended to give you a platform to put your analytical expertise on disp
 
 | File   | Description |
 |-------------------|-------------|
-| [listings.csv.gz](http://data.insideairbnb.com/united-states/ca/san-francisco/2022-12-04/data/listings.csv.gz) | Detailed Listings Data |
+| [listings.csv.gz](https://data.insideairbnb.com/united-states/ca/san-francisco/2022-12-04/data/listings.csv.gz) | Detailed Listings Data |
 | [calendar.csv.gz](http://data.insideairbnb.com/united-states/ca/san-francisco/2022-12-04/data/calendar.csv.gz) | Detailed Calendar Data |
 | [reviews.csv.gz](http://data.insideairbnb.com/united-states/ca/san-francisco/2022-12-04/data/reviews.csv.gz) | Detailed Review Data |
 | [listings.csv](http://data.insideairbnb.com/united-states/ca/san-francisco/2022-12-04/visualisations/listings.csv) | Summary information and metrics for listings in San Francisco |
