@@ -46,7 +46,7 @@ You are free to use any data analytics tool such as Python, R, Excel, Tableau, o
 We have many more for you to solve as a member of the Rearc team!
 
 ### Q. What if I fail?
-Do. Or do not. There is no fail.
+There is no fail. Complete whatever you can and then submit your work. Doing everything in the quest is not a guarantee that you will "pass" the quest, just like not doing something is not a guarantee you will "fail" the quest.
 
 ### Q. Can I share this quest with others?
 No. If you host your answers in version control such as Github, we ask that you please keep the repository private.
